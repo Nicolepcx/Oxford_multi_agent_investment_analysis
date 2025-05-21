@@ -4,6 +4,7 @@ This is the code for the Talk "Multi-Agent-Workflow for Investment Analysis". Th
 
 ## Multi-Agent Investment Analysis
 
+
 For the multi-agents, you will use the following tools:
 
   - [Exa](https://exa.ai/search), after account login, get your [API key here](https://docs.exa.ai/reference/getting-started-with-python). To find the exact content you're looking for on the web using embeddings-based search.  
