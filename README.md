@@ -1,4 +1,4 @@
-# Oxford_multi_agent_investment_analysis
+# Oxford Multi-agent Investment Analysis
 
 This is the code for the Talk "Multi-Agent-Workflow for Investment Analysis". This repo draws inspiration from the paper [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) by Wu et al., and from the [examples from LangGraph](https://github.com/langchain-ai/langgraph/tree/main/examples/multi_agent). 
 
