@@ -6,7 +6,7 @@ This is the code for the Talk "Multi-Agent-Workflow for Investment Analysis". Th
 You will find three notebooks which you can directly open in Google Colab:
 
 - `Oxford_LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent investment report with LangGraph.
-- - `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS.
+- `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS.
 - `Oxford_langgraph_multiturn_conversation.ipynb`: Multi-turn Human-in-the-Loop conversation with LangGraph
 
 
