@@ -16,7 +16,7 @@ For the multi-agents, you will use the following tools:
 
 The interaction of the multi-agents looks like this:
 
-![graph.jpeg](resources%2Fgraph.jpeg)
+![graph.jpeg](resources%2Fgraph.png)
 
 ## Language Agent Tree Search
 
