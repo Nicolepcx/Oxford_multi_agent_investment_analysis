@@ -3,10 +3,10 @@
 This is the code for the Talk "Multi-Agent-Workflow for Investment Analysis". This repo draws inspiration from the paper [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) by Wu et al., and from the [examples from LangGraph](https://github.com/langchain-ai/langgraph/tree/main/examples/multi_agent). 
 
 
-You will find two notebooks which you can directly open in Google Colab:
+You will find three notebooks which you can directly open in Google Colab:
 
-- `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS. 
-- `Oxford_LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent investment report with LangGraph. 
+- `Oxford_LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent investment report with LangGraph.
+- - `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS.
 - `Oxford_langgraph_multiturn_conversation.ipynb`: Multi-turn Human-in-the-Loop conversation with LangGraph
 
 
