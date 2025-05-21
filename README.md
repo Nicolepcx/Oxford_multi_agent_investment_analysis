@@ -30,6 +30,5 @@ You will find two notebooks which you can directly open in Google Colab:
 
 - `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS. 
 - `Oxford_LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent investment report with LangGraph. 
-- `Chat_with_data.ipynb`: This is a simple example how to interact with your CSV files in plotting graphs etc
 - `Oxford_langgraph_multiturn_conversation.ipynb`: Multi-turn Human-in-the-Loop conversation with LangGraph
 
