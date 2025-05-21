@@ -10,6 +10,7 @@ For the multi-agents, you will use the following tools:
   - [Exa](https://exa.ai/search), after account login, get your [API key here](https://docs.exa.ai/reference/getting-started-with-python). To find the exact content you're looking for on the web using embeddings-based search.  
   - [SerpApi here](https://serpapi.com/), after account login, get your [API key](https://serpapi.com/dashboard) to do look for existing patents.
   - [Python REPL](https://python.langchain.com/docs/integrations/tools/python/), please note that Python REPL can execute arbitrary code on the host machine (e.g., delete files, make network requests). Use with caution.
+  - A finetuned [LLM from HuggingFace](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis) for sentiment anylysis
   - Tools to access and write to a `.txt` file and create a plot of historical prices.
 - How to define utilities to help create the graph.
 - How to create a team supervisor and the team of agents.
@@ -27,8 +28,8 @@ The interaction of the multi-agents looks like this:
 
 You will find two notebooks which you can directly open in Google Colab:
 
-- `LATS.ipynb`: This is the notebook shown during the talk for creating LATS. 
-- `LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent with LangGraph. 
+- `lats_advice.ipynb`: This is the notebook shown during the talk for creating LATS. 
+- `Oxford_LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent investment report with LangGraph. 
 - `Chat_with_data.ipynb`: This is a simple example how to interact with your CSV files in plotting graphs etc
-- `llama_3_code_interpreter_upload_dataset.ipynb`: Demonstrates how to sandbox code properly.
+- `Oxford_langgraph_multiturn_conversation.ipynb`: Multi-turn Human-in-the-Loop conversation with LangGraph
 
